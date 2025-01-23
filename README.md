@@ -1,4 +1,4 @@
-# FOG-Technologies-Private-Limited-Technical-Assignment-
+# FOG-Technologies-Private-Limited-Technical-Assignment-Question 2
 
 Question :- Process a longer video to generate a short video that can be shared as a reel/shorts/story, etc.
 
